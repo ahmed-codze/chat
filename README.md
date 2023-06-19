@@ -8,10 +8,7 @@ Live Preview: [http://chat.spacelevels.online/](http://chat.spacelevels.online/)
 
 - Real-time chat functionality
 - User registration and authentication
-- Creating and joining chat rooms
-- Sending and receiving messages within chat rooms
-- User online/offline status
-- Notifications for new messages
+- Sending and receiving messages within chat room
 
 ## Technologies Used
 
